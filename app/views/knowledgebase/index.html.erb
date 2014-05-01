@@ -1,1 +1,11 @@
+<html>
+<head>
+<title>Knowledgebase</title>
+</head>
+<body>
 <h1>Knowledgebase</h1>
+<% @paragraphs.each do |paragraph| %>
+	<%= paragraph.text.to_s %><br/>
+<% end %>
+</body>
+</html>
