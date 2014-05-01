@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rails Sample App on OpenShift #
 Quickstart rails application for openshift.
 
@@ -139,3 +140,9 @@ License
 -------
 
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+=======
+knowledgebase
+=============
+
+Test OpenShift Ruby on Rails app
+>>>>>>> 936f9dd3d688513d4fd26666dde137d853cd6e99
