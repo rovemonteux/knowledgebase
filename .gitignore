@@ -8,7 +8,7 @@
 /.bundle
 
 # Ignore openshift config
-/.openshift
+.openshift
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
